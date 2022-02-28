@@ -1,0 +1,50 @@
+    
+   .body{
+
+    font-family: monospace;
+    width: 50px;
+    height: 50px;
+    color: black;
+
+ }
+
+ .awards{
+
+    background-color: blue;
+ }
+
+ .menu{
+
+background: #2F281E;
+
+ }
+
+
+ .quote {
+
+    background-color: aqua;
+ }
+
+
+ .group {
+
+    align-items: center;
+    align-content: center;
+    font-weight: bold;
+    font-size: 10px;
+    margin-bottom: 10px;
+    color: #2F281E;
+    background-color: blueviolet;
+}
+
+
+
+
+ .footer{
+
+    background-color: white;
+    color: black;
+
+
+ }
+    
